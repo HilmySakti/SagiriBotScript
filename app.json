@@ -1,6 +1,6 @@
 {
-  "name" : "Sagiri Bot"
-  "description" : "Sagiri New Update"
-  "repository" : "https://github.com/HilmySakti/SagiriBotScript"
-  "keywords" : ["Nodejs", "bot", "whatsapp bot"]
-}
+  "name": "whatsapp-bot",
+  "description": "whatsapp bot build with nodejs",
+  "repository": "https://github.com/HilmySakti/SagiriBotScript",
+  "logo": "https://c.top4top.io/p_2069qnvob1.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot"]
